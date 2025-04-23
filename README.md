@@ -1,4 +1,4 @@
-此项目是由 VTEXS赞助的,非常感谢赞助[**官网地址**](https://console.vtexs.com)
+此项目是由 VTEXS赞助的,非常感谢赞助[**VTEXS地址**](https://console.vtexs.com)
 
 
 
